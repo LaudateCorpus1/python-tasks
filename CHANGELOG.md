@@ -4,6 +4,13 @@
 
 [1]: https://pypi.org/project/google-cloud-tasks/#history
 
+## [2.8.0](https://github.com/googleapis/python-tasks/compare/v2.7.2...v2.8.0) (2022-01-25)
+
+
+### Features
+
+* add api key support ([#214](https://github.com/googleapis/python-tasks/issues/214)) ([ce21598](https://github.com/googleapis/python-tasks/commit/ce215987f969cbc6347fb58cd2163394a6fc7f1c))
+
 ### [2.7.2](https://www.github.com/googleapis/python-tasks/compare/v2.7.1...v2.7.2) (2022-01-08)
 
 
